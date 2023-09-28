@@ -36,5 +36,7 @@ Can't I program everything by myself? Here is a list of all the tools that help 
 
 ## Portfolio
 
-I'm a fighter who will do everything to become the best version of myself! I'm always eager to learn and level up my skills. Here is my portfolio, the place where I deliver my all inovations. You'll see innovative solutions and a bunch of web projects here! 
+I'm a fighter who will do everything to become the best version of myself! I'm always eager to learn and level up my skills. Here is my portfolio, the place where I deliver my all ideas and inovations. You'll see innovative solutions and a bunch of web projects here! 
+
+###
 [andikss.github.io](andikss.github.io)
