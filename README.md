@@ -5,7 +5,7 @@ Hello there! I'm Andika Dwi Saputra, and I'm currently in an internship program 
 
 ## 🛠️ Ability toolkit
 
-Can't I program everything by myself? Here is a list of all the tools that help me complete all my projects!
+Can't program everything by myself, can I? Here is a list of all the tools that help me complete all my projects!
 #### Programming Language
 <div style="display: flex; flex-direction: row;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="margin-right: 12px"/>
