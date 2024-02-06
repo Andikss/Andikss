@@ -38,7 +38,7 @@ Can't program everything by myself, can I? Here is a list of all the tools that 
 
 #### DevOps
 <div style="display: flex; flex-direction: row;">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/kinux/linux-original.svg" alt="git" width="40" height="40" style="margin-right: 12px"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="git" width="40" height="40" style="margin-right: 12px"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg" alt="git" width="40" height="40" style="margin-right: 12px"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="git" width="40" height="40" style="margin-right: 12px"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" alt="git" width="40" height="40" style="margin-right: 12px"/>
