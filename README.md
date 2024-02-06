@@ -34,6 +34,12 @@ Can't program everything by myself, can I? Here is a list of all the tools that 
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="margin-right: 12px"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="mssql" width="40" height="40" style="margin-right: 12px"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="40" height="40" style="margin-right: 12px"/>
+</div>
+
+#### DevOps
+<div style="display: flex; flex-direction: row;">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/kinux/linux-original.svg" alt="git" width="40" height="40" style="margin-right: 12px"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg" alt="git" width="40" height="40" style="margin-right: 12px"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="git" width="40" height="40" style="margin-right: 12px"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" alt="git" width="40" height="40" style="margin-right: 12px"/>
 </div>
