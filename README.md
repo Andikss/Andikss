@@ -17,10 +17,12 @@ Can't program everything by myself, can I? Here is a list of all the tools that 
 
 #### Tools & Framework
 <div style="display: flex; flex-direction: row;">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40" style="margin-right: 12px"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40" style="margin-right: 12px"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" style="margin-right: 12px"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" style="margin-right: 12px"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/composer/composer-original.svg" alt="composer" width="40" height="40" style="margin-right: 12px"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/livewire/livewire-original.svg" alt="composer" width="40" height="40" style="margin-right: 12px"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" alt="composer" width="40" height="40" style="margin-right: 12px"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnet" width="40" height="40" style="margin-right: 12px"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" style="margin-right: 12px"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" alt="materialui" width="40" height="40" style="margin-right: 12px"/>
@@ -32,6 +34,8 @@ Can't program everything by myself, can I? Here is a list of all the tools that 
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="margin-right: 12px"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="mssql" width="40" height="40" style="margin-right: 12px"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="40" height="40" style="margin-right: 12px"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="git" width="40" height="40" style="margin-right: 12px"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" alt="git" width="40" height="40" style="margin-right: 12px"/>
 </div>
 
 ## Portfolio
